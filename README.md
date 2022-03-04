@@ -33,4 +33,4 @@ Desenvolver uma aplicação de listagem e detalhe de personagens de quadrinhos.
 
 ### Dicas
 - Valorizamos muito testes em nosso processo de desenvolvimento;
-- Aqui na Gamifica.ai todos os desenvolvedores podem participar do processo de avaliação técnica então oriente os avaliadores a como instalar, testar e executar seu código.
+- Aqui na Gamifica.ai todos podem participar do processo de avaliação técnica então oriente os avaliadores a como instalar, testar e executar seu código.
